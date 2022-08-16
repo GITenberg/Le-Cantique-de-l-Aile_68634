@@ -1,0 +1,32 @@
+_repo: Le-Cantique-de-l-Aile_68634
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rostand, Edmond
+    birthdate: 1868
+    deathdate: 1918
+    gutenberg_agent_id: '575'
+    url: http://www.gutenberg.org/2009/agents/575
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edmond_Rostand
+    - https://fr.wikipedia.org/wiki/Edmond_Rostand
+description: ''
+gutenberg_issued: '2022-07-29'
+identifiers:
+  gutenberg: '68634'
+language: fr
+pgterms:marc904: https://archive.org/details/lecantiquedelail00rostuoft
+pgterms:marc905: 20210319162036rostand
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: France :Fasquelle,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le Cantique de l'Aile
+url: http://www.gutenberg.org/ebooks/68634
